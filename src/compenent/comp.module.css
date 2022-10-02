@@ -1,0 +1,15 @@
+
+
+.navbar{
+
+text-decoration: none;
+color: black;
+}
+
+.App {
+
+    display: grid;
+    grid-template-columns:repeat(100px,8);
+    color: rgb(144, 127, 255);
+  }
+  
