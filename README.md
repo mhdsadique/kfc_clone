@@ -1,7 +1,7 @@
 # KFC
 KFC is a popular fast food chain that serves chicken , biscuits and other delicious dishes.
 https://gleeful-sunflower-815746.netlify.app/
-https://my-app-wheat-ten.vercel.app/
+
 ## Technology
 **Client** -React.js | Chackra UI | HTML | CSS | Javascript
 
